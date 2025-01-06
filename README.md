@@ -1,20 +1,17 @@
 # DiscordNotion
 
 ## プラグイン説明
+マイクラ鯖の起動 停止、プレイヤーの参加 退出をDiscordに通知
+
+![説明画像](imgs/img.jfif)
 
 ## プラグインダウンロード
 [ダウンロードリンク](https://github.com/ringoame196-s-mcPlugin/DiscordNotion/releases/latest)
 
-## コマンド
-| コマンド名   |     説明      | 権限 |
-| --- | ----------- | ------- |
-| コマンド名 | 説明 | 権限 |
-
-## 使い方
-
 ## configファイル
 | key名   |     説明      | デフォルト値 |
 | --- | ----------- | ------- |
+| webhookURL | DiscordWebHookURL | "" |
  
 ## 開発環境
 - Minecraft Version : 1.21.4
